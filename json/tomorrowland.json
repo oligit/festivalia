@@ -1,0 +1,19 @@
+{
+    "nombre": "Tomorrowland",
+    "img": "img/tomorrowland.png",
+	"img2": "img/tomorrowland2.png",
+    "artistas": [
+        "Alesso",
+        "Armin Van Buuren",
+        "Avicii",
+        "Carl Cox",
+        "David Guetta",
+        "Dimitri Vegas & Like Mike",
+        "Tiesto",
+        "Mark with a K"
+    ],
+    "localizacion": "Variable",
+    "duracion": "3 dias",
+    "camping": "Si",
+    "descripcion": "Los escenarios se encuentran rodeados de una decoración que simula un cuento de hadas. El festival en sí, ofrece una variedad de subgéneros dentro de la música electrónica. Así mismo, consta de un camping a las afueras del recinto del festival, llamado DreamVille, para aquellos asistentes que deseen hospedarse lo más cerca posible. DreamVille ofrece distintas acomodaciones, ya sea un lugar donde poner tu propia tienda de campaña o una mansión para un determinado número de personas. Añadido a esto, la entrada al DreamVille ofrece poder asistir a The Gathering, una pre-fiesta al festival realizada desde el mediodía del jueves hasta pasada la media noche y que suele incluir la participación de DJs incluidos en el line-up del fin de semana."
+}

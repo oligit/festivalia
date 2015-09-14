@@ -1,0 +1,20 @@
+{
+    "nombre": "aquasella",
+    "img": "img/aquasella.jpg",
+    "img2": "img/aquasella2.jpg",
+    "artistas": [
+        "sven vath",
+        "vitalic",
+        "Cristian Varela",
+        "Fernanda Martins",
+        "Dj Pepo",
+        "Dj Rush",
+        "Leon",
+        "Matador",
+        "Marco Carola"
+    ],
+    "localizacion": "Arriondas, Principado de Asturias",
+    "duracion": "3 dias",
+    "camping": "Si",
+    "descripcion": "Aquasella es un festival de música electrónica que se celebra cada año en Arriondas, Principado de Asturias, España organizado por La Real Producciones. La edición 19 del festival tuvo lugar los días 21, 22 y 23 de agosto de 2015. La primera edición del festival fue en el año 1997 con una asistencia aproximada de un millar de personas y en la edición del año 2010 asistieron más de 30.000 espectadore"
+}

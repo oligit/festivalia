@@ -1,0 +1,17 @@
+{
+    "nombre": "Monegros",
+    "img": "img/monegros.jpg",
+    "img2": "img/monegros2.jpg",
+    "artistas": [
+        "Fernanda Martins",
+        "The Prodigy",
+        "Ben Sims",
+        "Paco Osuna",
+        "Doble V",
+        "2 many dj's"
+    ],
+    "localizacion": "Fraga, España",
+    "duracion": "3 dias",
+    "camping": "Si",
+    "descripcion": "Después de mas de 20 años desde la primera Monegros Party, este será el primer verano en el que no se celebrará el festival.Decisión, madurada a conciencia, viene dada tras la negativa a la utilización de los terrenos por una parte de la propiedad del recinto donde se ha venido celebrando el evento desde sus inicios. Ante la dificultad de una negociación fructífera y la incerteza de una resolución judicial favorable, hemos decidido actuar de la forma más prudente y responsable que evitara riesgos y contrariedades para todos, tanto para el público y los artistas como para la propia organización."
+}

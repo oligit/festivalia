@@ -1,0 +1,10 @@
+{
+	"nombre": "Viñarock",
+	"img": "img/vinarock.png",
+	"img2": "img/vinarock2.png",
+	"artistas": ["Los Suaves", "Rosendo", "Gatillazo", "Def Con Dos", "Mala Rodriguez", "Los Chicos del Maiz"],
+	"localizacion": "Villarobledo, Albacete",
+	"duracion": "4 dias",
+	"camping": "Si",
+	"descripcion": "El Festival de Arte Nativo Viña Rock es un festival musical español organizado anualmente el fin de semana previo al 1 de mayo. Desde sus inicios en 1996 se han celebrado en la ciudad albaceteña de Villarrobledo 17 ediciones consecutivas. En la edición de 2007 la empresa que organizaba el festival decidió trasladarlo a Benicasim, en la provincia de Castellón, pero la Audiencia Provincial de Valencia ha concedido al Ayuntamiento de Villarrobledo (Albacete) la titularidad de la marca 'Viña Rock'. En la edición de 2008 se celebró como Viña Rock en Villarrobledo organizado por su ayuntamiento, y como El Viña se celebraró en Paiporta organizado por la empresa Matarile."
+}

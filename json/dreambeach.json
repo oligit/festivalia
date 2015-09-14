@@ -1,0 +1,23 @@
+{
+    "nombre": "dreambeach",
+    "img": "img/dreambeach.jpg",
+    "img2": "img/dreambeach2.jpg",
+    "artistas": [
+        "Maceo Plex",
+        "Sven vath",
+        "Vitalic",
+        "Cristian Varela",
+        "Fernanda Martins",
+        "Dj Pepo",
+        "Dj Rush",
+        "Leon",
+        "Matador",
+        "Marco Carola",
+        "Luciano",
+        "Armin Van Buren"
+    ],
+    "localizacion": "Cuevas del Almanzora, Almería",
+    "duracion": "3 dias",
+    "camping": "Si",
+    "descripcion": "Dreambeach Villaricos es un festival de música electrónica que se celebra anualmente en la playa de Villaricos, dentro del municipio español de Cuevas del Almanzora, en la provincia de Almería, desde el año 2013. Es el heredero del famoso Creamfields Andalucía, el cual dejó de celebrarse en 2012."
+}
